@@ -2,6 +2,12 @@
 > Language: Racket 
 
 This is a sub-version of the retro game more commonly known as "Space Invader"
+
+Instructions for player:
+Move left -> "Left arrow key"
+Move right -> "Right arrow key"
+Shoot -> "Spacebar" 
+
 ________________________________________________________________________________
 • Singular Player Code
 

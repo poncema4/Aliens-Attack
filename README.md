@@ -1,7 +1,9 @@
 # Aliens-Attack
 > Language: Racket 
 
-This is a sub-version of the retro game more commonly known as "Space Invader"
+This is a sub-version of the retro game more commonly known as "Space Invader", and has the main goal of shooting
+and defeating all the aliens on the screen, letting the player win, the game is over when the aliens are in the 
+last row as the rocket.
 
 ________________________________________________________________________________
 Instructions for player:
